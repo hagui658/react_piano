@@ -1,0 +1,13 @@
+.key {
+    position:relative;
+    font-size: var(--font-size);
+    border-radius: 0 0 var(--radius) var(--radius);
+    text-transform: uppercase;
+    user-select: none;
+}
+
+.key--natural {
+    width: var(--white-key-width);
+    height: var(--white-key-height);
+    padding-top: var(--white-key-padding);
+}

@@ -1,0 +1,7 @@
+.key {
+    position:relative;
+    font-size: var(--font-size);
+    border-radius: 0 0 var(--radius) var(--radius);
+    text-transform: uppercase;
+    user-select: none;
+}
